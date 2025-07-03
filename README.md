@@ -42,6 +42,3 @@
 
 
 
-<p align="center">
-  <img src="URL-de-la-imagen" width="200"/>
-</p>
