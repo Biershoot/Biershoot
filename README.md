@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 </p>
 
 
