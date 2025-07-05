@@ -10,9 +10,9 @@
 
 ### 🧠 Sobre mí
 
-💻 Estudiante de Ingeniería de Software y Datos  
-🚀 Apasionado por el desarrollo backend con Java y tecnologías modernas  
-📍 Medellín, Colombia  
+💻 Desarrollador Backend con Java y Spring Boot 
+🚀 Apasionado por crear soluciones eficientes y escalables
+📍 Medellín, Colombia
 
 ---
 
