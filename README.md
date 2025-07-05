@@ -10,8 +10,8 @@
 
 ### 🧠 Sobre mí
 
-💻 Desarrollador Backend con Java y Spring Boot 
-🚀 Apasionado por crear soluciones eficientes y escalables
+💻 Desarrollador Backend con Java y Spring Boot
+🚀 Apasionado por construir soluciones eficientes, escalables y bien estructuradas.
 📍 Medellín, Colombia
 
 ---
