@@ -32,7 +32,7 @@
 
 ### 📫 Conecta conmigo
 - ✉️ [Correo](mailto:alejandro.arango67@est.iudigital.edu.co)
-- 🔗 [LinkedIn](https://linkedin.com/in/alejandro-arango-calderon-337a37225)
+- 🔗 [LinkedIn]( linkedin.com/in/alejandroarango-dev)
 - 💻 [GitHub](https://github.com/Biershoot)
 
 ---
