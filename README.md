@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Buenas a todos!</h1>
 
-<h3 align="center">⭐ Soy Alejandro Arango y aquí encontrarás todos mis proyectos ⭐</h3>
+<h3 align="center">⭐ Soy Alejandro Arango Calderon y aquí encontrarás todos mis proyectos ⭐</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
