@@ -3,7 +3,7 @@
 <h3 align="center">⭐ Soy Alejandro Arango Calderon | AI Backend Engineer ⭐</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3bm96ZzRycXp3bm96ZzRycXp3bm96ZzRycXp3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/L20mbc7yRRFja/giphy.gif" width="500"/>
 </p>
 
 ---
