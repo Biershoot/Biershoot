@@ -3,7 +3,7 @@
 <h3 align="center">⭐ Alejandro Arango Calderon | AI Backend Engineer ⭐</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R4N3R4N3R4N3R4N3R4N3R4N3R4N3R4N3R4N3R4N3R4N3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/QpVUMRUJGokfqXygeb/giphy.gif" width="500"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@ Combino la solidez de **Java y Go** bajo principios **SOLID** y **Arquitectura H
 
 - 📍 Medellín, Colombia
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alejandroarango-dev)
-- ✉️ [alejandro.arango67@est.iudigital.edu.co](mailto:alejodim27@gmail.com)
+- ✉️ [alejandro.arango67@est.iudigital.edu.co](mailto:alejandro.arango67@est.iudigital.edu.co)
 
 ---
 <p align="center"><i>"Construyendo software que no solo procesa datos, sino que los entiende, bajo estándares de Clean Code."</i></p>
