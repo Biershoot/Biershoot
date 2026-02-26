@@ -42,7 +42,7 @@ Combino la solidez de **Java y Go** bajo principios **SOLID** y **Arquitectura H
 
 - 📍 Medellín, Colombia
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alejandroarango-dev)
-- ✉️ [alejandro.arango67@est.iudigital.edu.co](mailto:alejodim27@gmail.com)
+- ✉️ [alejodim27@gmail.com](mailto:alejodim27@gmail.com)
 
 ---
 <p align="center"><i>"Construyendo software que no solo procesa datos, sino que los entiende, bajo estándares de Clean Code."</i></p>
