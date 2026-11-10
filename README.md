@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="left" width="300" alt="Ilustración de programación"/>
+<img src="assets/avatar.svg" align="left" width="260" alt="Avatar de Alejandro rodeado de logos de Java, Python, Go, Spring y Docker"/>
 
 Soy estudiante de **Ingeniería de Software y Datos** en la IU Digital de Antioquia y me estoy formando como **AI Backend Engineer**. Creo que los modelos de lenguaje solo brillan de verdad en producción cuando detrás hay una ingeniería de software bien hecha, y por eso le dedico tanto tiempo a la arquitectura como a la IA. 🧠⚙️
 
