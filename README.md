@@ -1,39 +1,52 @@
-# Hola 👋, soy Alejandro Arango Calderón, AI Backend Engineer 🚀
+# Hola 👋, soy Alejandro Arango Calderón, Ingeniero de Software y Datos en formación 🤖🚀
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Alejandro%20Arango%20Calder%C3%B3n&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Backend%20Engineer%20%7C%20Java%20%C2%B7%20Go%20%C2%B7%20Python&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner de Alejandro Arango Calderón"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Alejandro%20Arango%20Calder%C3%B3n&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Ingeniero%20de%20Software%20y%20Datos%20en%20formaci%C3%B3n%20%7C%20AI%20Engineer&descSize=18&descAlignY=57&animation=fadeIn" width="100%" alt="Banner de Alejandro Arango Calderón, Ingeniero de Software y Datos en formación y AI Engineer"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineering-LLMs%20%7C%20RAG%20%7C%20LangChain-0f766e?style=flat-square" alt="AI Engineering"/>
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Go%20%7C%20Python-1f6f78?style=flat-square" alt="Backend"/>
+  <img src="https://img.shields.io/badge/Arquitectura-SOLID%20%7C%20Hexagonal-2c5364?style=flat-square" alt="Arquitectura"/>
+  <img src="https://img.shields.io/badge/Abierto%20a-pr%C3%A1cticas%20y%20roles%20junior-16a34a?style=flat-square" alt="Abierto a prácticas y roles junior"/>
 </p>
 
 ---
 
 <img src="assets/avatar.svg" align="left" width="260" alt="Avatar de Alejandro rodeado de logos de Java, Python, Go, Spring y Docker"/>
 
-Soy estudiante de **Ingeniería de Software y Datos** en la IU Digital de Antioquia y me estoy formando como **AI Backend Engineer**. Creo que los modelos de lenguaje solo brillan de verdad en producción cuando detrás hay una ingeniería de software bien hecha, y por eso le dedico tanto tiempo a la arquitectura como a la IA. 🧠⚙️
+Soy **Ingeniero de Software y Datos en formación** en la IU Digital de Antioquia, con enfoque en **AI Engineering**: diseño y construyo aplicaciones que integran **modelos de lenguaje (LLMs)** sobre un backend sólido, pensado para llegar a producción. 🧠⚙️
 
-Mi base está en **Java (Spring Boot)** y **Go**, trabajando con principios **SOLID**, **Clean Code** y **Arquitectura Hexagonal**. Con **Python** exploro el ecosistema de IA: arquitecturas **RAG**, integración de **LLMs** y **LangChain**, buscando que esos sistemas sean escalables y fáciles de mantener. 🤖
+Trabajo con **Python** para la capa de IA: pipelines **RAG**, búsqueda semántica con embeddings, orquestación con **LangChain** e integración de APIs de IA. Para el backend uso **Java (Spring Boot)** y **Go**, aplicando **SOLID**, **Clean Code** y **Arquitectura Hexagonal** para que el código sea testeable y fácil de mantener. 🤖
 
-En la universidad también he construido proyectos full stack, como una API REST en **Node.js + Express + MongoDB** y su frontend en **React + Vite**, lo que me ayuda a entender el recorrido completo de una aplicación, desde la base de datos hasta la pantalla. 🌐
+Mi formación en datos me ayuda a ver el sistema completo: cómo se modela, almacena y consulta la información (**PostgreSQL + pgvector**, **MySQL**, **MongoDB**) antes de que un modelo la use para responder. También he construido proyectos full stack con **Node.js + Express** y **React + Vite**. 🌐
 
 <br clear="left"/>
 
-Me gusta aprender algo nuevo cada semana, documentar lo que hago y conectar con personas que disfruten construir software que no solo procese datos, sino que los entienda. 🤝
+### 💼 Lo que aporto a un equipo
+
+- 🤖 **IA aplicada:** integración de LLMs en aplicaciones reales, diseño de flujos RAG y prompts orientados a resultados.
+- 🏗️ **Backend bien diseñado:** APIs REST con arquitectura limpia, separación de capas y código mantenible.
+- 📊 **Mirada de datos:** modelado, consultas y preparación de información para alimentar sistemas inteligentes.
+- 🚀 **Aprendizaje rápido:** me adapto a nuevas herramientas y documento lo que construyo para que el equipo lo pueda retomar.
 
 ---
 
 ## ✨ Quick Facts
 
-- 💻 **Trabajando en:** APIs backend con Java, Go y Node.js, y sistemas RAG con Python.
-- 🌱 **Aprendiendo:** arquitecturas RAG avanzadas, PostgreSQL con pgvector y microservicios con Docker.
-- 🎯 **Objetivo:** llevar sistemas de IA a producción sobre arquitecturas limpias, escalables y mantenibles.
-- 🎓 **Educación:** Ingeniería de Software y Datos en la IU Digital de Antioquia.
-- 📍 **Ubicación:** Medellín, Colombia.
+- 💻 **Trabajando en:** aplicaciones con LLMs y RAG en Python, y APIs backend en Java, Go y Node.js.
+- 🌱 **Aprendiendo:** agentes de IA, evaluación de sistemas RAG, PostgreSQL con pgvector y despliegue con Docker.
+- 🎯 **Objetivo:** crecer como **AI Engineer** construyendo sistemas de IA confiables, escalables y listos para producción.
+- 🎓 **Educación:** Ingeniería de Software y Datos, IU Digital de Antioquia (en curso).
+- 🤝 **Busco:** prácticas profesionales o roles junior en AI Engineering, Backend o Ingeniería de Datos.
+- 📍 **Ubicación:** Medellín, Colombia · disponible para trabajo remoto.
 - 📫 **Cómo contactarme:** [alejodim27@gmail.com](mailto:alejodim27@gmail.com)
 
 ---
 
 ## 🛠 Tecnologías y herramientas
 
-Estas son las tecnologías que he usado en mis proyectos personales y de la universidad:
+Stack que he usado en proyectos personales y académicos, desde la capa de IA hasta el despliegue:
 
 <table align="center">
   <tr>
