@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/AI%20Engineering-LLMs%20%7C%20RAG%20%7C%20LangChain-0f766e?style=flat-square" alt="AI Engineering"/>
   <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Go%20%7C%20Python-1f6f78?style=flat-square" alt="Backend"/>
   <img src="https://img.shields.io/badge/Arquitectura-SOLID%20%7C%20Hexagonal-2c5364?style=flat-square" alt="Arquitectura"/>
-  <img src="https://img.shields.io/badge/Abierto%20a-pr%C3%A1cticas%20y%20roles%20junior-16a34a?style=flat-square" alt="Abierto a prácticas y roles junior"/>
 </p>
 
 ---
@@ -38,8 +37,7 @@ Mi formación en datos me ayuda a ver el sistema completo: cómo se modela, alma
 - 🌱 **Aprendiendo:** agentes de IA, evaluación de sistemas RAG, PostgreSQL con pgvector y despliegue con Docker.
 - 🎯 **Objetivo:** crecer como **AI Engineer** construyendo sistemas de IA confiables, escalables y listos para producción.
 - 🎓 **Educación:** Ingeniería de Software y Datos, IU Digital de Antioquia (en curso).
-- 🤝 **Busco:** prácticas profesionales o roles junior en AI Engineering, Backend o Ingeniería de Datos.
-- 📍 **Ubicación:** Medellín, Colombia · disponible para trabajo remoto.
+- 📍 **Ubicación:** Medellín, Colombia.
 - 📫 **Cómo contactarme:** [alejodim27@gmail.com](mailto:alejodim27@gmail.com)
 
 ---
